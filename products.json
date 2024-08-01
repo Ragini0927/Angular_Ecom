@@ -1,0 +1,18 @@
+{
+    "products":[
+    {"id":1,"pname":"Tv","brand":"samsung","model":"ABCD1","price":5500},
+    {"id":2,"pname":"Refrigerator","brand":"LG","model":"ABCD2","price":5500},
+    {"id":3,"pname":"Washing Machine","brand":"Whirlpool","model":"ABCD3","price":5500}
+
+    ],
+    "users":[
+        {"uname":"user1","pwd":"pw1"},
+        {"uname":"user2","pwd":"pw2"},
+        {"uname":"user3","pwd":"pw3"}
+      ],
+
+     "cart":[
+        {"id":1,"uname":"uname1","pid":1,"qty":2},
+        {"id":2,"uname":"uname2","pid":2,"qty":3}
+     ] 
+}
